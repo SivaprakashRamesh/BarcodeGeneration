@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSBarcode" targetNamespace="http://tempuri.org/DSBarcode.xsd" xmlns:mstns="http://tempuri.org/DSBarcode.xsd" xmlns="http://tempuri.org/DSBarcode.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSBarcode" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSBarcode" msprop:Generator_UserDSName="DSBarcode">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DATATABLE_BARCODE" msprop:Generator_TableClassName="DataTable_BarcodeDataTable" msprop:Generator_TableVarName="tableDataTable_Barcode" msprop:Generator_TablePropName="DataTable_Barcode" msprop:Generator_RowDeletingName="DataTable_BarcodeRowDeleting" msprop:Generator_RowChangingName="DataTable_BarcodeRowChanging" msprop:Generator_RowEvHandlerName="DataTable_BarcodeRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable_BarcodeRowDeleted" msprop:Generator_UserTableName="DATATABLE_BARCODE" msprop:Generator_RowChangedName="DataTable_BarcodeRowChanged" msprop:Generator_RowEvArgName="DataTable_BarcodeRowChangeEvent" msprop:Generator_RowClassName="DataTable_BarcodeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" msprop:Generator_UserColumnName="BARCODE" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="FIRMCODE" msprop:Generator_ColumnVarNameInTable="columnFIRMCODE" msprop:Generator_ColumnPropNameInRow="FIRMCODE" msprop:Generator_ColumnPropNameInTable="FIRMCODEColumn" msprop:Generator_UserColumnName="FIRMCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="COLOR" msprop:Generator_ColumnVarNameInTable="columnCOLOR" msprop:Generator_ColumnPropNameInRow="COLOR" msprop:Generator_ColumnPropNameInTable="COLORColumn" msprop:Generator_UserColumnName="COLOR" type="xs:string" minOccurs="0" />
+              <xs:element name="SWW" msprop:Generator_ColumnVarNameInTable="columnSWW" msprop:Generator_ColumnPropNameInRow="SWW" msprop:Generator_ColumnPropNameInTable="SWWColumn" msprop:Generator_UserColumnName="SWW" type="xs:string" minOccurs="0" />
+              <xs:element name="SIZE" msprop:Generator_ColumnVarNameInTable="columnSIZE" msprop:Generator_ColumnPropNameInRow="SIZE" msprop:Generator_ColumnPropNameInTable="SIZEColumn" msprop:Generator_UserColumnName="SIZE" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" msprop:Generator_ColumnVarNameInTable="columnMRP" msprop:Generator_ColumnPropNameInRow="MRP" msprop:Generator_ColumnPropNameInTable="MRPColumn" msprop:Generator_UserColumnName="MRP" type="xs:double" minOccurs="0" />
+              <xs:element name="BARCODETEXT" msprop:Generator_ColumnVarNameInTable="columnBARCODETEXT" msprop:Generator_ColumnPropNameInRow="BARCODETEXT" msprop:Generator_ColumnPropNameInTable="BARCODETEXTColumn" msprop:Generator_UserColumnName="BARCODETEXT" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

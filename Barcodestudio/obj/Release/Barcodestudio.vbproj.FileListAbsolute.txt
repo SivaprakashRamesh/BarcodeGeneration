@@ -1,0 +1,114 @@
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe.config
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.pdb
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.xml
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.exe
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.xml
+E:\Sivaprakash\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe.config
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio-14082020\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe.config
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 280820\Barcodestudio 14082020\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.exe.config
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.exe.config
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 31082020\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Barcodestudio.exe.config
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Barcodestudio.exe
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Barcodestudio.pdb
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Barcodestudio.xml
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\BarcodeLib.Barcode.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Bunifu_UI_v1.52.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\bin\Release\Zen.Barcode.Core.dll
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.vbprojResolveAssemblyReference.cache
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.CFL.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.dialogprinter.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.FrmBarcodeSeries.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.FrmDoubleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.Resources.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.DialogHelp.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.FrmSingleBarcode.resources
+D:\Sivaprakash\Projects\Projects\OfficeWorking\OfficeWorking\Vasan\Final\Barcode Printing\Barcodestudio 020920\Barcodestudio\obj\Release\Barcodestudio.vbproj.GenerateResource.Cache
